@@ -34,7 +34,7 @@ How to run?
 
 How to play?
 ===
-Do you don't no how to play a nibble game? Well, in this case you don't know how  to run it too. Nevermind! ;)
+Do you don't know how to play a nibble game? Well, in this case you don't know how  to run it too. Nevermind! ;)
 
 
 How to improve it?
