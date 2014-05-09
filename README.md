@@ -4,7 +4,7 @@ Yet another small nibble game.<br>
 This was one of first games that I have made.
 
 
-![](docs/screenshots/Nibble_01.jpg)
+![](docs/screenshots/nibble_002.png)
 
 
 Language
@@ -25,7 +25,7 @@ How to run?
 ===
 
 1. This games is for DOS, so you will need to install [DOSBox](http://www.dosbox.com/download.php?main=1).
-2. Download the [Nibble.zip](build/Nibble.zip) file, unzip it on a folder, like c:\nibble.
+2. Download the [Nibble.zip](build/NIBBLE.zip) file, unzip it on a folder, like c:\nibble.
 3. Open DOSBox
 4. Type mount c c:\nibble
 5. Type c
