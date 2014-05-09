@@ -4,7 +4,7 @@ Yet another small nibble game.<br>
 This was one of first games that I have made.
 
 
-[![](docs/screenshots/nibble_002.png)](http://www.youtube.com/embed/ibnpKDo0jDI)
+[![](docs/screenshots/nibble_002.png)](https://www.youtube.com/watch?v=ibnpKDo0jDI)
 
 
 Language
