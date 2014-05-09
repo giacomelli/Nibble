@@ -1,19 +1,20 @@
 Nibble
 ======
-A small game made using C.<br>
+Yet another small nibble game.<br>
 This was one of first games that I have made.
 
 Language
 ===
 I programmed it using C on Turbo C, more than 10 years ago. 
 
+The entire HUD was made using the BGI ([Borland Graphic Interface](http://en.wikipedia.org/wiki/Borland_Graphics_Interface))
+
 Code philosophy
 ===
 There is no code philosophy, I was learning how to programming, so, the code is very basic and was written in portuguese.
 
-BGI
-===
-The entire HUD was made using the BGI ([Borland Graphic Interface](http://en.wikipedia.org/wiki/Borland_Graphics_Interface))
+The whole game logic is inside the [NIBBLE.C](src/NIBBLE.C) file (461 loc),
+
 
 
 ![](docs/screenshots/Nibble_01.jpg)
