@@ -6,6 +6,8 @@ This was one of first games that I have made.
 
 ![](docs/screenshots/nibble_002.png)
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/ibnpKDo0jDI" frameborder="0" allowfullscreen></iframe>
+
 
 Language
 ===
