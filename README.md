@@ -3,6 +3,10 @@ Nibble
 Yet another small nibble game.<br>
 This was one of first games that I have made.
 
+
+![](docs/screenshots/Nibble_01.jpg)
+
+
 Language
 ===
 I programmed it using C on Turbo C, more than 10 years ago. 
@@ -16,8 +20,6 @@ There is no code philosophy, I was learning how to programming, so, the code is 
 The whole game logic is inside the [NIBBLE.C](src/NIBBLE.C) file (461 loc),
 
 
-
-![](docs/screenshots/Nibble_01.jpg)
 
 How to run?
 ===
