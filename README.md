@@ -17,7 +17,7 @@ Code philosophy
 ===
 There is no code philosophy, I was learning how to programming, so, the code is very basic and was written in portuguese.
 
-The whole game logic is inside the [NIBBLE.C](src/NIBBLE.C) file (461 loc),
+The whole game logic is inside the [NIBBLE.C](src/NIBBLE.C) file (461 loc).
 
 
 
