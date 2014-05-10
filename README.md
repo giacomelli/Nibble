@@ -9,7 +9,7 @@ This was one of first games that I have made.
 
 Language
 ===
-I programmed it using C on Turbo C, more than 10 years ago. 
+I programmed it using C on Turbo C, near 2000 (yes, a long, long time ago). 
 
 The entire HUD was made using the BGI ([Borland Graphic Interface](http://en.wikipedia.org/wiki/Borland_Graphics_Interface))
 
